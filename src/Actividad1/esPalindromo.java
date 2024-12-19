@@ -12,7 +12,7 @@ public class esPalindromo {
 
 	   public static void main(String[] args) {
 	       String s1 = "level";
-	       String s2 = "cool";
+	       String s2 = "cold";
 	       String s3 = "Madam";
 	       String s4 = "Now, sir, a war is won!";
 	       boolean b1 = validPalindrome(s1);
